@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Yestin</title>
+		<description>Yestin Blog</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>My Sites</title>
+				<description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.iyestin.com&quot;&gt;My Personal Site&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://blog.iyestin.com&quot;&gt;My Chinese Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+				<pubDate>Wed, 02 Apr 2014 00:00:00 +0800</pubDate>
+				<link>/2014/04/02/My-Sites.html</link>
+				<guid isPermaLink="true">/2014/04/02/My-Sites.html</guid>
+			</item>
+		
+	</channel>
+</rss>
